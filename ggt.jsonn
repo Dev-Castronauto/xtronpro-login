@@ -1,12 +1,5 @@
 {
-  "users": [
-    {
-      "username": "alice",
-      "password": "hashed_password_here"
-    },
-    {
-      "username": "bob",
-      "password": "hashed_password_here"
-    }
-  ]
+  "name": "Frode",
+  "score": "jeg er castor",
+  "passed": true
 }

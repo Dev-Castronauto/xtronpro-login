@@ -1,5 +1,12 @@
 {
-  "name": "Frode",
-  "score": "jeg er castor",
-  "passed": true
+  "users": [
+    {
+      "username": "Guest",
+      "password": "1234"
+    },
+    {
+      "username": "Admin",
+      "password": "5227"
+    }
+  ]
 }
